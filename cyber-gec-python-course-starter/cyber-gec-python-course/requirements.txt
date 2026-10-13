@@ -1,0 +1,2 @@
+# Introductory labs use Python's standard library only.
+# Optional for later labs: pytest
